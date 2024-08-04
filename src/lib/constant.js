@@ -1,0 +1,4 @@
+export const X_MAX_CHARACTERS = 280;
+export const FACEBOOK_MAX_CHARACTERS = 250;
+export const GOOGLE_MAX_CHARACTERS = 300;
+export const LINKEDIN_MAX_CHARACTERS = 3000;
